@@ -36,60 +36,69 @@ I am a Front-end Web Developer | Angular Developer | React Developer <img src="h
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
-  <a href="https://angular.io" target="_blank" rel="noreferrer"> 
-    <img src="https://angular.io/assets/images/logos/angular/angular.svg" title="angular" title="angular" alt="angular" width="40" height="40"/> 
+  <a href="https://angular.io" target="_blank" style="text-decoration: none;" rel="noreferrer"> 
+    <img src="https://angular.io/assets/images/logos/angular/angular.svg" title="angular" title="Angular" alt="Angular" width="40" height="40"/> 
   </a> 
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" title="bootstrap" alt="bootstrap" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>
   </a>
   <a href="https://mui.com/" target="_blank" rel="noreferrer"> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>
   </a>
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" title="cplusplus" alt="cplusplus" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" title="Cplusplus" alt="Cplusplus" width="40" height="40"/> 
   </a> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" title="css3" alt="css3" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" title="Css3" alt="Css3" width="40" height="40"/> 
+  </a>
+  <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="40" height="40"/> 
   </a>
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" title="firebase" alt="firebase" width="40" height="40"/> 
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" title="Firebase" alt="Firebase" width="40" height="40"/> 
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" title="git" alt="git" width="40" height="40"/> 
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" title="Git" alt="Git" width="40" height="40"/> 
   </a> 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" title="html5" alt="html5" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" title="Html5" alt="Html5" width="40" height="40"/> 
   </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/> 
   </a> 
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" title="nodejs" alt="nodejs" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" title="Node js" alt="Nodejs" width="40" height="40"/> 
   </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" title="nodejs" alt="nodejs" width="40" height="40"/> 
-  </a> 
-  jquery/jquery-original.svg" />
+  <a href="https://jquery.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" title="Jquery" alt="Jquery" width="40" height="40"/> 
+  </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" title="react" alt="react" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/> 
   </a>
   <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> 
-    <img src="https://reactnative.dev/img/header_logo.svg" title="reactnative" alt="reactnative" width="40" height="40"/> 
+    <img src="https://reactnative.dev/img/header_logo.svg" title="React Native" alt="React Native" width="40" height="40"/> 
   </a>
   <a href="https://redux.js.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="redux" alt="redux" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="40" height="40"/>
   </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" title="typescript" alt="typescript" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/> 
+  </a>
+  <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/babel/babel-original.svg" title="Babel" alt="Babel" width="40" height="40"/> 
+  </a>
+  <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" title="NPM" alt="NPM" width="40" height="40"/> 
   </a>
   <a href="https://webpack.js.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" title="webpack" alt="webpack" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" title="Webpack" alt="Webpack" width="40" height="40"/>
   </a>
+  
   <a href="https://gulpjs.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" title="gulp" alt="gulp" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" title="Gulp" alt="Gulp" width="40" height="40"/>
   </a>
   <a href="https:/jestjs.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" title="jest" alt="jest" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" title="Jest" alt="Jest" width="40" height="40"/>
   </a>
 </div>
 
