@@ -97,7 +97,7 @@ I am a Front-end Web Developer | Angular Developer | React Developer <img src="h
   <a href="https://gulpjs.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" title="Gulp" alt="Gulp" width="40" height="40"/>
   </a>
-  <a href="https:/jestjs.io/" target="_blank" rel="noreferrer"> 
+  <a href="https://jestjs.io/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" title="Jest" alt="Jest" width="40" height="40"/>
   </a>
 </div>
