@@ -49,7 +49,7 @@ I am a Front-end Web Developer | Angular Developer | React Developer <img src="h
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" title="Cplusplus" alt="Cplusplus" width="40" height="40"/> 
   </a> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" title="Css3" alt="Css3" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" title="Css" alt="Css" width="40" height="40"/> 
   </a>
   <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="40" height="40"/> 
@@ -61,7 +61,7 @@ I am a Front-end Web Developer | Angular Developer | React Developer <img src="h
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" title="Git" alt="Git" width="40" height="40"/> 
   </a> 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" title="Html5" alt="Html5" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" title="Html" alt="Html" width="40" height="40"/> 
   </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/> 
@@ -106,7 +106,7 @@ I am a Front-end Web Developer | Angular Developer | React Developer <img src="h
 
 ### :fire: My Stats :
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=KhaledElbahr&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="mohamedrefat98" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=KhaledElbahr&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="KhaledElbahr" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=KhaledElbahr&show_icons=true&locale=en&theme=vision-friendly-dark" alt="mohamedrefat98" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=KhaledElbahr&show_icons=true&locale=en&theme=vision-friendly-dark" alt="KhaledElbahr" /></p>
 
